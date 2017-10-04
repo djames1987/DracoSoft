@@ -39,4 +39,3 @@ def gen_rsa_pair():
     print(code)
     print(privatekey)
     print(publickey)
-gen_rsa_pair()
