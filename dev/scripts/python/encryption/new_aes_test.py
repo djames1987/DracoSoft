@@ -42,4 +42,3 @@ def decrypt_file(key, in_filename, out_filename=None, chunksize=24*1024):
                     break
                 outfile.write(decryptor.decrypt(chunk))
             outfile.truncate(origsize)
-decrypt_file('Monkey', 'test.enc', 'test.txt')
