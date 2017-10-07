@@ -1,0 +1,6 @@
+D:\csharp\pdf_2_jpeg\pdf_2_jpeg\bin\Debug\pdf_2_jpeg.exe
+D:\csharp\pdf_2_jpeg\pdf_2_jpeg\bin\Debug\pdf_2_jpeg.pdb
+D:\csharp\pdf_2_jpeg\pdf_2_jpeg\obj\Debug\pdf_2_jpeg.csprojResolveAssemblyReference.cache
+D:\csharp\pdf_2_jpeg\pdf_2_jpeg\obj\Debug\pdf_2_jpeg.csproj.CoreCompileInputs.cache
+D:\csharp\pdf_2_jpeg\pdf_2_jpeg\obj\Debug\pdf_2_jpeg.exe
+D:\csharp\pdf_2_jpeg\pdf_2_jpeg\obj\Debug\pdf_2_jpeg.pdb
